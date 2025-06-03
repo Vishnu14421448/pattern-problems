@@ -1,0 +1,29 @@
+17.
+s="satya priya"
+for i in range(1,len(s)):
+    print(s[:i])
+for i in range(len(s),0,-1):
+        print(s[:i])
+        
+-- output        
+s
+sa
+sat
+saty
+satya
+satya 
+satya p
+satya pr
+satya pri
+satya priy
+satya priya
+satya priy
+satya pri
+satya pr
+satya p
+satya 
+satya
+saty
+sat
+sa
+s
